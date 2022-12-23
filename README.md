@@ -1,4 +1,4 @@
-# LABORATORIO 3
+# LABORATORIO 4
 
 - Aguirre Johan
 
@@ -10,108 +10,53 @@
 
   * Objetivo General:
     
-    - Realizar el circuito indicado, mediante el uso de material didáctico y simulación en tinkercad, para medir voltajes en cada uno de los nodos formados, comprobando experimentalmente el análisis de nodos.
-    
+    - Analizar y demostrar, el teorema de superposición en el circuito planteado. Mediante una investigación previa con respecto al teorema para solventar las dudas sobre el procedimiento que se lleva a cabo para resolver los cálculos.
+   
   * Objetivos Específicos:
 
-    - Hallar el voltaje de cada uno de los nodos del circuito. 
-
-    - Calcular mediante ley de corrientes de Kirchhoff, teniendo en cuenta las corrientes entrantes y salientes de los nodos. 
-
-    - Comparar los resultados teóricos con los resultados prácticos 
+    - Verificar experimentalmente el teorema de superposición en los circuitos eléctricos dados en el laboratorio. 
+    - Verificar experimentalmente el teorema de reciprocidad en los circuitos eléctricos dados en el laboratorio 
     
 2. MARCO TEÓRICO
 
-  ![image](https://user-images.githubusercontent.com/116812841/206633975-12cbdc21-5591-4efe-afc3-e3ff147f4eb2.png)
   
-  ![image](https://user-images.githubusercontent.com/116812841/206634034-1f05152d-2822-4d86-8676-afdb20e02052.png)
-
-   
 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
    3.1.  MATERIAL Y EQUIPO REQUERIDO
-
-![image](https://user-images.githubusercontent.com/116812841/206634092-7b261161-dffe-47a8-98be-3b50fe2614e9.png)
-
+  
+![image](https://user-images.githubusercontent.com/105056762/209356347-5f0e20b1-9796-4a55-a456-fe422a71c987.png)
 
    3.2. PROCEDIMIENTO
-   
-   i.	Implemente el circuito que se presenta en la figura 3.1.
-   
-   ![image](https://user-images.githubusercontent.com/116812841/206634227-7c1bb9ce-3516-44a1-959d-67b34a297a5e.png)
-   
-   ![image](https://user-images.githubusercontent.com/116812841/206635587-a186fde1-cc9f-4e8c-95d8-605b13f72e02.png)
-   
-   Método de mallas para econtrar I1, I2 E I3.
-
-   ![image](https://user-images.githubusercontent.com/116812841/206635939-47080d2f-af4f-4f4e-8c69-7c5b2296972b.png)
-    
-   Resolución de las ecuaciones por el método Gauss Jordan.
-   
-   ![2](https://user-images.githubusercontent.com/116812841/206636200-581db42b-82f5-47c5-ba5d-bd2d8de0e304.png)
-   
-   ![3](https://user-images.githubusercontent.com/116812841/206636240-60659cdb-2686-4b0c-a453-f121ddaf1b3a.png)
-   
-   ![4](https://user-images.githubusercontent.com/116812841/206636255-2f4b1801-3a1f-4878-acac-437635864acf.png)
-   
-   ![5](https://user-images.githubusercontent.com/116812841/206636301-e5a90755-2020-40c7-8489-3cc0292c29cd.png)
-   
-   Valores de I1, I2 E I3.
-   
-   ![6](https://user-images.githubusercontent.com/116812841/206636316-0c1c0492-8cd1-4d08-a298-98cd87037958.png)
-   
-   ENCONTRAR VOLTAJES DE LOS NODOS
-   
-   ![7](https://user-images.githubusercontent.com/116812841/206636845-1c779a0d-7d06-438b-b7b5-4306d7512ccc.png)
-
-![8](https://user-images.githubusercontent.com/116812841/206636860-a9de88dc-7015-424d-9308-bb4f93a180e4.png)
-
-![9](https://user-images.githubusercontent.com/116812841/206636876-16d6d64d-86a6-4072-a943-bffef303501c.png)
-
-
-   ii.	Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
-   
-   ![image](https://user-images.githubusercontent.com/116812841/206635093-32470260-bcba-426f-86a3-98103d5ef6c5.png)
-   
-   ![image](https://user-images.githubusercontent.com/116812841/206635134-7a17ee0a-260b-4597-b622-0423d5ad3334.png)
-   
-   ![image](https://user-images.githubusercontent.com/116812841/206635154-0486b240-1cb4-424a-9ceb-e0230b54ee1c.png)
-   
-   ![image](https://user-images.githubusercontent.com/116812841/206635183-a10f7c76-574e-43c6-907c-ca6bd1cd1200.png)
-
-
-   iii.	Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1. 
-   
-  ![image](https://user-images.githubusercontent.com/116812841/206635353-f6090fd6-30d9-4e0b-9a37-78416f93d85e.png)
-
-   
-   iv.	Compare los valores de la tabla 3.1 y realice sus conclusiones.
-   
-  Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1. 
-   
-   ![image](https://user-images.githubusercontent.com/116812841/206637615-6c082791-07b1-4be3-ac48-603b1cd96b7f.png)
-
-   
-4.	CÁLCULO DEL ERROR
-
-[![56.png](https://i.postimg.cc/tCMnrcJk/56.png)](https://postimg.cc/crfJCXQt)
-
-MARGEN DE ERROR EN EL VOLTAJE DEL NODO 1
-
-  ![N1](https://user-images.githubusercontent.com/116812841/206638033-a32a9b87-59de-453e-bc54-e45f690e8239.png)
+  - Arme el circuito que se muestra en la figura 4.1.
   
-MARGEN DE ERROR EN EL VOLTAJE DEL NODO 2
+  ![image](https://user-images.githubusercontent.com/105056762/209356619-36917288-5062-49bf-ad99-8e61f2c6b407.png)
 
-  ![N2](https://user-images.githubusercontent.com/116812841/206638049-4d78a535-c199-48b7-a5ee-f36bc6edd977.png)
+  - Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+  
+  - Haga “cero” la fuente de voltaje de 3 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+  
+  ![image](https://user-images.githubusercontent.com/105056762/209356759-e7cf256d-2ed6-4012-a8a1-1a54b6c91d90.png)
+  
+  ![image](https://user-images.githubusercontent.com/105056762/209356800-af7a70ab-a816-4c69-a6ad-dcfe97f51b3d.png)
 
-MARGEN DE ERROR EN EL VOLTAJE DEL NODO 3
+  - Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+   
+   ![image](https://user-images.githubusercontent.com/105056762/209356849-dda82adf-ba36-4ff2-884b-c80cb0a75892.png)
+   
+   ![image](https://user-images.githubusercontent.com/105056762/209356895-8e10e9d1-d5c6-49a3-9a88-752ab61c7444.png)
+   
+   Tabla 4.1. Medición de voltaje aplicando superposición.
+   
+   ![image](https://user-images.githubusercontent.com/105056762/209357174-ca4c06ad-a0bd-443f-8213-e5f3446ed2c0.png)
 
-  ![N3](https://user-images.githubusercontent.com/116812841/206638062-03144975-b972-4144-b936-b40c04056d8a.png)
-
-MARGEN DE ERROR EN EL VOLTAJE DEL NODO 4
-
-  ![N4](https://user-images.githubusercontent.com/116812841/206638081-6ad246ce-d0ba-4e40-bb62-19af9ef5b61c.png)
-
+   Tabla 4.2. Medición de corriente aplicando superposición.
+   
+   ![image](https://user-images.githubusercontent.com/105056762/209357215-3ceb3b7d-82b2-4736-9968-5224b3617289.png)
+   
+   - Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+Calcular errores de las mediciones y comentar los resultados.
+4.	CÁLCULO DEL ERROR
 
 5.	VIDEO
 
