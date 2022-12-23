@@ -19,7 +19,8 @@
     
 2. MARCO TEÓRICO
 
-  
+![image](https://user-images.githubusercontent.com/105056762/209357644-5ec1b71e-c44b-4213-a163-91a0ea305b8b.png)
+
 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
    3.1.  MATERIAL Y EQUIPO REQUERIDO
@@ -32,12 +33,16 @@
   ![image](https://user-images.githubusercontent.com/105056762/209356619-36917288-5062-49bf-ad99-8e61f2c6b407.png)
 
   - Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-  
+ 
+ ![image](https://user-images.githubusercontent.com/105056762/209358157-17e5704b-ab09-4ed2-b4ec-b41669ea16cc.png)
+
   - Haga “cero” la fuente de voltaje de 3 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
   
   ![image](https://user-images.githubusercontent.com/105056762/209356759-e7cf256d-2ed6-4012-a8a1-1a54b6c91d90.png)
   
   ![image](https://user-images.githubusercontent.com/105056762/209356800-af7a70ab-a816-4c69-a6ad-dcfe97f51b3d.png)
+  
+  ![image](https://user-images.githubusercontent.com/105056762/209358815-a5c05d04-11b9-4f35-92b3-3a25b3fac2e6.png)
 
   - Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
    
@@ -45,6 +50,8 @@
    
    ![image](https://user-images.githubusercontent.com/105056762/209356895-8e10e9d1-d5c6-49a3-9a88-752ab61c7444.png)
    
+   ![image](https://user-images.githubusercontent.com/105056762/209359074-eca083d5-c7fe-4f2a-8807-404e8b87d9bb.png)
+
    Tabla 4.1. Medición de voltaje aplicando superposición.
    
    ![image](https://user-images.githubusercontent.com/105056762/209357174-ca4c06ad-a0bd-443f-8213-e5f3446ed2c0.png)
